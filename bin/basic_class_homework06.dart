@@ -6,10 +6,7 @@ Create a "Person" class that has a name("name") and a age("age")
 class Person {
   String name = 'Gayrat';
   int age = 16;
-  Person(String name, int age) {
-    this.name = name;
-    this.age = age;
-  }
+  Person(String name, int age) {}
 }
 
 void main() {
