@@ -1,5 +1,8 @@
 /*
 Create a "Person" class
 */
+class data {}
 
-void main() {}
+void main() {
+  data x = data();
+}
