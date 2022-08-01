@@ -1,8 +1,8 @@
 /*
 Create a "Person" class
 */
-class data {}
+class Person {}
 
 void main() {
-  data x = data();
+  Person x = Person();
 }
